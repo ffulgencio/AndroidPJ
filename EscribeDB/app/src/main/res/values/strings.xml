@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EscribeDB</string>
+    <string name="txtDescripcion">Descripcion</string>
+    <string name="txtCategoria">Categoria</string>
+    <string name="txtPrecio">Precio</string>
+    <string name="txtMostar">Mostar</string>
+    <string name="txtGuardar">Guardar</string>
 </resources>
